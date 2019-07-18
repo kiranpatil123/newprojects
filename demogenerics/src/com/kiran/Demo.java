@@ -15,7 +15,7 @@ public class Demo {
 		Add a = new Add();
 		Object add = a.add(5, 6, Integer.class);
 		System.out.println(add);
-		System.out.println("kiran");
+//		System.out.println("kiran");
 	}
 
 }
